@@ -1,0 +1,24 @@
+/* Sabine */
+
+body {
+    margin: 0;
+  }
+  
+  .container {
+    width: 1600px;
+    margin: 0 auto;
+  }
+  
+  header {
+    background-image: url(images/businessman-man-person-990818.jpg);
+    background-repeat: no-repeat;
+    height: 760px;
+    width: auto;
+  }
+  
+  .header-right {
+    background-color: rgba(0, 0, 0, 0.9);
+    background-blend-mode: multiply;
+    height: 100%;
+    width: 50%;
+  }

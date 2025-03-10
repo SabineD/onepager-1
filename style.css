@@ -262,6 +262,7 @@ body {
     font-weight: bold;
     margin-bottom: 40px;
     font-family: Arial, sans-serif;
+    right: -40px;
     line-height: 0.7;
 }
 
@@ -332,8 +333,8 @@ body {
 .find-more-button::before {
     content: "•";
     margin-right: 10px;
-    margin-bottom: 8px;
-    font-size: 30px;
+    margin-bottom: 1px;
+    font-size: 50px;
     color: white;
 }
 
@@ -342,8 +343,8 @@ body {
     position: absolute;
     border-radius: 20px;
     margin-top:40px;
-    width: 65px;
-    height: 3px;
+    width: 68px;
+    height: 5px;
     background-color:rgb(240, 234, 234);
     right: 400px;
     top: 50%;
